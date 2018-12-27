@@ -20,3 +20,10 @@ y-kawakami-TT invited you to y-kawakami-TT/2018_test_1
 201812/27
 会社にて。
 自己流でここまでやってきたが、やはり入門書的なものを読まないと進展がなさそう。
+
+2018/12/27
+自宅にて。
+Create a new branch for this commit and start a pull request. Learn more about pull requests.
+のマークを押してみることにする。
+ykawakami-SPre-K-patch-1　が現れるので
+Propse file change を押してみることにする。
