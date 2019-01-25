@@ -24,3 +24,6 @@ y-kawakami-TT invited you to y-kawakami-TT/2018_test_1
 2019/01/04
 年末に入門書を手に入れる予定だったが、RStudioの本を先に読んでいる。
 
+2019/01/25
+2月刊行の本が落ち着き、少し余裕ができた。
+
