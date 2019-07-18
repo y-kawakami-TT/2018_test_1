@@ -30,3 +30,6 @@ y-kawakami-TT invited you to y-kawakami-TT/2018_test_1
 2019/03/02
 自宅にて。久しぶりの更新である。仕事が少し落ち着いてきた。
 
+2019/07/18
+自分のUsernameはy-kawakami-TTであり、久しぶりにログインすることができた。
+
